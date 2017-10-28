@@ -1,0 +1,59 @@
+html
+{
+	background: #AABBCC; 
+}
+
+a, a:visited  {color: navy; text-decoration: none}
+a:hover   {color: red}
+
+ul
+{
+	list-style-type: none;
+}
+
+li
+{
+	list-style-type: none;
+}
+
+table
+{
+	width: 100%;
+	text-align: left;
+	text-vertical-align: middle;
+	height: 20px;
+	padding: 0px;
+	border-collapse: collapse;
+	color: black;
+}
+
+th
+{
+	background: #5577dd;
+	color: white;
+	text-align: center;
+}
+
+tr:nth-child(even)
+{
+	background: white;
+	text-align: center;
+	font-size: 12px;
+}
+tr:nth-child(odd)
+{
+	background: #DDDDDD;
+	text-align: center;
+	font-size: 12px;
+}
+
+tr td
+{
+	text-align: center;
+}
+
+.errmsg
+{
+	color: red;
+	font-style: italic;
+}
