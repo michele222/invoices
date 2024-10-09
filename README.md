@@ -12,7 +12,3 @@ Invoices is a software to handle simple operations on a list of items from a dat
 ## Usage
 
 1. Open a browser and go to [http://localhost/invoices/index.php](http://localhost/invoices/index.php)
-
-## License
-
-[MIT](https://chosealicense.com/licenses/mit/)
